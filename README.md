@@ -62,18 +62,8 @@ Combat-focused top-down prototype exploring enemy AI, movement logic and gamepla
 <img src="https://img.shields.io/badge/Discord-Ryukizi-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/](https://www.linkedin.com/in/deniel-leal/">
 <img src="https://img.shields.io/badge/LinkedIn-Deniel%20Leal%20Brandão-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
-
----
-
-<div align="center">
-
-> "Every soul has its dark."
-
-</div>
-```
-
